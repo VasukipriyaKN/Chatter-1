@@ -3,9 +3,9 @@
 https://peaceful-brook-19119.herokuapp.com/
 
 ## Installation
-npm install express
-npm install socket.io
-npm install sweetalert2
+1. npm install express
+2. npm install socket.io
+3. npm install sweetalert2
 
 ## Functionality
 0. Chat anonymously with your 😉 without getting caught.
