@@ -9,7 +9,7 @@ https://peaceful-brook-19119.herokuapp.com/
 
 ## Functionality
 0. Chat anonymously with your 😜 without getting caught by 😜.
-1. You can see how is typing.
+1. You can see who is typing.
 2. It won't store any messages except on your browser. So if your refresh browser, gets deleted.
 
 Enjoy 😜
